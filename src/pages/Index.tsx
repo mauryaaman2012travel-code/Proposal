@@ -138,7 +138,7 @@ const Index = () => {
                   textShadow: "1px 1px 2px rgba(233, 30, 99, 0.2)"
                 }}
               >
-                Manshi,
+                Salvi,
               </h1>
               <p 
                 className="text-xl md:text-2xl font-medium"
@@ -230,7 +230,7 @@ const Index = () => {
                 className="text-lg md:text-xl italic font-serif"
                 style={{ color: "#e91e63" }}
               >
-                "You make my heart skip a beat, Manshi 💖"
+                "You make my heart skip a beat, Salvi 💖"
               </p>
             </div>
 
