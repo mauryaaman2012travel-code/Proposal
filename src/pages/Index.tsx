@@ -138,7 +138,7 @@ const Index = () => {
                   textShadow: "1px 1px 2px rgba(233, 30, 99, 0.2)"
                 }}
               >
-                Salvi,
+                Hi Salvi,
               </h1>
               <p 
                 className="text-xl md:text-2xl font-medium"
