@@ -231,7 +231,7 @@ const Index = () => {
                 className="text-lg md:text-xl italic font-serif"
                 style={{ color: "#e91e63" }}
               >
-                "You make my heart skip a beat, Happy Valentine's Day 💖"
+                "You make my heart skip a beat" Happy Valentine's Day! 💖
               </p>
             </div>
 
