@@ -142,7 +142,8 @@ const Index = () => {
               </h1>
               <p 
                 className="text-xl md:text-2xl font-medium"
-                style={{ color: "#555" }}
+                style={{ color: "#555" , fontFamily: "'Georgia', serif"
+                 }}
               >
                 will you be my <span className="text-2xl md:text-3xl font-bold" style={{ color: "#e91e63" }}>Valentine</span>? 💕
               </p>
@@ -212,7 +213,7 @@ const Index = () => {
             
             <p 
               className="text-xl md:text-2xl mb-4 font-medium animate-fade-in"
-              style={{ color: "#555", animationDelay: "0.3s" }}
+              style={{ color: "#555", animationDelay: "0.3s" , fontFamily: "'Georgia', serif"}}
             >
               I knew you'd say yes!
             </p>
@@ -230,7 +231,7 @@ const Index = () => {
                 className="text-lg md:text-xl italic font-serif"
                 style={{ color: "#e91e63" }}
               >
-                "You make my heart skip a beat, Salvi 💖"
+                "You make my heart skip a beat, Happy Valentine's Day 💖"
               </p>
             </div>
 
