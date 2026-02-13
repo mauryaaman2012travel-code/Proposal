@@ -61,7 +61,7 @@ const Index = () => {
 
   return (
     <div 
-      className="min-h-screen flex items-center justify-center p-4 overflow-hidden relative"
+      className="min-h-screen flex items-center justify-center p-4 overflow-hidden relative italic"
       style={{ backgroundColor: "#fce4ec" }}
     >
       {/* Celebration hearts */}
@@ -141,7 +141,7 @@ const Index = () => {
                 Hi Salvi,
               </h1>
               <p 
-                className="text-xl md:text-2xl font-medium"
+                className="text-xl md:text-2xl italic font-medium"
                 style={{ color: "#555" , fontFamily: "'Georgia', serif"
                  }}
               >
